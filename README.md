@@ -182,9 +182,9 @@ Breaking large prompts into smaller sections improves response clarity, reduces 
 
 | AI Tool | Strengths | Weaknesses |
 |---|---|---|
-| :contentReference[oaicite:0]{index=0} | Clear and structured explanations | Slightly lengthy responses |
-| :contentReference[oaicite:1]{index=1} | Concise and organized answers | Less detailed technical depth |
-| :contentReference[oaicite:2]{index=2} | Beginner-friendly explanations | Sometimes overly descriptive |
+| OpenAI | Clear and structured explanations | Slightly lengthy responses |
+| Google | Concise and organized answers | Less detailed technical depth |
+| Anthropic | Beginner-friendly explanations | Sometimes overly descriptive |
 
 ---
 
@@ -207,20 +207,6 @@ Breaking large prompts into smaller sections improves response clarity, reduces 
 - Everyday functioning prompts improved practical understanding.
 - Universal prompt structures produced reusable educational responses.
 - Prompt refinement improved response quality and readability.
-
----
-
-# CONCLUSION
-
-The experiment demonstrates that different prompt engineering techniques generate different styles and qualities of responses.
-
-- Comparative prompts are useful for analysis.
-- Experiential prompts improve contextual understanding.
-- Everyday functioning prompts explain practical applications clearly.
-- Universal structures improve learning and consistency.
-- Prompt refinement enhances clarity and response efficiency.
-
-These prompting techniques improve AI interaction and help generate accurate, structured, and user-friendly outputs.
 
 ---
 # FLOWCHART
